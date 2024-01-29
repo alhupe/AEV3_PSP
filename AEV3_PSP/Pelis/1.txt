@@ -1,4 +1,0 @@
-Titulo: Bla bla bla
-Usuari1: M’ha agradat
-Usuari2: No m’ha agradat
-Usuari3: Ni fu ni fa
